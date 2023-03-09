@@ -1,0 +1,10 @@
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+p {
+  font-style: italic;
+  line-height: 1.5;
+  font-size: 20px;
+}
